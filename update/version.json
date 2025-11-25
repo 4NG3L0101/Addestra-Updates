@@ -1,9 +1,9 @@
 {
   "version": "1.0.1",
   "parts": [
-    "https://raw.githubusercontent.com/4NG3L0101/Addestra-Updates/main/update/Addestra.part1.rar",
-    "https://raw.githubusercontent.com/4NG3L0101/Addestra-Updates/main/update/Addestra.part2.rar",
-    "https://raw.githubusercontent.com/4NG3L0101/Addestra-Updates/main/update/Addestra.part3.rar"
+    "https://raw.githubusercontent.com/4NG3L0101/Addestra-Updates/main/update/Addestra.zip",
+    "https://raw.githubusercontent.com/4NG3L0101/Addestra-Updates/main/update/Addestra.z01",
+    "https://raw.githubusercontent.com/4NG3L0101/Addestra-Updates/main/update/Addestra.z02"
   ],
   "sha256": "40F036FCB8DDCBF7CB64FC538943D5F4C88B7091B5DD9A78F08C8724402CB817"
 }
